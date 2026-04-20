@@ -1,0 +1,36 @@
+# Dependencies
+/vendor
+
+# IDE
+/.idea
+/.vscode
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Documentation
+doc/
+
+# Logs
+/storage/logs
+
+# Cache
+/storage/cache
+/bootstrap/cache
+
+# Build files
+/build
+/dist
+
+# Temporary files
+*.tmp
+*.temp
+
+# Test files
+/tests/

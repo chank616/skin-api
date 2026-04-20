@@ -1,6 +1,6 @@
-# plugin-template
+# 联合认证站扩展API
 
-This is a template repository for creating plugin, feel free to use it then modify it.
+
 
 ## License
 

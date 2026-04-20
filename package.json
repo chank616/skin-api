@@ -1,15 +1,13 @@
 {
-  "name": "",
-  "title": "",
+  "name": "skin-api-extension",
+  "title": "河高联皮肤站api扩展",
   "version": "0.1.0",
-  "description": "",
-  "author": "",
+  "description": "河高联皮肤站api扩展",
+  "author": "Chank616",
   "url": "",
-  "namespace": "",
+  "namespace": "SkinApiExtension",
   "require": {
-    "blessing-skin-server": "^5.0.0"
+    "blessing-skin-server": "^6.0.2"
   },
-  "enchants": {
-    "config": "Configuration"
-  }
+  "enchants": {}
 }
